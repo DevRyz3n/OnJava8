@@ -4,15 +4,6 @@
 
 - 本书原作者为 [美] Bruce Eckel，即《Java 编程思想》的作者。
 
-
-## 传送门
-
-- 目录阅读：[进入](https://github.com/LingCoder/OnJava8/blob/master/SUMMARY.md)
-
-- GitHub Pages 完整阅读：[进入](https://lingcoder.github.io/OnJava8/)
-
-- Gitee Pages 完整阅读：[进入](https://lingcoder.gitee.io/onjava8/)
-
 ## 翻译进度
 
 - [x] [前言](docs/book/00-Preface.md)
